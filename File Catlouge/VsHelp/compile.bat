@@ -1,0 +1,1 @@
+devenv VsHelp.sln /rebuild debug

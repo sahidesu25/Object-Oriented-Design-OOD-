@@ -1,0 +1,34 @@
+﻿Build started 3/23/2015 5:55:38 PM.
+     1>Project "C:\Users\Sahithi\Desktop\XmlDocumen_final\XmlDocumen_final_\Display\Display.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\executive\Executive.cpp ..\XmlDocument\XmlDocument.cpp ..\xmlelementparts\xmlelementparts\Tokenizer.cpp ..\xmlelementparts\xmlelementparts\xmlElementParts.cpp ..\xmlelement\XmlElement.cpp Display.cpp
+         Display.cpp
+         XmlElement.cpp
+         xmlElementParts.cpp
+         Tokenizer.cpp
+         XmlDocument.cpp
+     1>c:\users\sahithi\desktop\xmldocumen_final\xmldocumen_final_\xmldocument\xmldocument.cpp(124): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sahithi\desktop\xmldocumen_final\xmldocumen_final_\xmldocument\xmldocument.cpp(200): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sahithi\desktop\xmldocumen_final\xmldocumen_final_\xmldocument\xmldocument.cpp(289): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sahithi\desktop\xmldocumen_final\xmldocumen_final_\xmldocument\xmldocument.cpp(301): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sahithi\desktop\xmldocumen_final\xmldocumen_final_\xmldocument\xmldocument.cpp(328): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sahithi\desktop\xmldocumen_final\xmldocumen_final_\xmldocument\xmldocument.cpp(338): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sahithi\desktop\xmldocumen_final\xmldocumen_final_\xmldocument\xmldocument.cpp(361): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sahithi\desktop\xmldocumen_final\xmldocumen_final_\xmldocument\xmldocument.cpp(621): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\sahithi\desktop\xmldocumen_final\xmldocumen_final_\xmldocument\xmldocument.cpp(635): warning C4018: '<' : signed/unsigned mismatch
+         Executive.cpp
+         Generating Code...
+     1>c:\users\sahithi\desktop\xmldocumen_final\xmldocumen_final_\xmldocument\xmldocument.cpp(316): warning C4715: 'XmlProcessing::XmlDocument::doc_Attribute_search' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sahithi\Desktop\XmlDocumen_final\XmlDocumen_final_\Debug\Display.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sahithi\Desktop\XmlDocumen_final\XmlDocumen_final_\Debug\Display.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sahithi\Desktop\XmlDocumen_final\XmlDocumen_final_\Debug\Display.lib" /MACHINE:X86 Debug\Executive.obj
+         Debug\XmlDocument.obj
+         Debug\Tokenizer.obj
+         Debug\xmlElementParts.obj
+         Debug\XmlElement.obj
+         Debug\Display.obj
+         Display.vcxproj -> C:\Users\Sahithi\Desktop\XmlDocumen_final\XmlDocumen_final_\Debug\Display.exe
+     1>Done Building Project "C:\Users\Sahithi\Desktop\XmlDocumen_final\XmlDocumen_final_\Display\Display.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.80

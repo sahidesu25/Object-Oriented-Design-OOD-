@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- XML test case -->
+<? type="text/xsl" href="style.xsl"?>
+<LectureNote course="CSE681" courseId="a" coursename="yada">
+  <title>XML Example #1</title>
+  <reference>
+    <title>Programming Microsoft .Net</title>
+    <author id="ref1">Jeff Prosise <note Company="Wintellect"></note></author>
+<? type1="text/xsl" href="style.xsl"?>
+    <publisher>Microsoft Press</publisher>
+    <date>2002</date>
+    <page>608</page>
+ </reference>
+  <comment>Description of PCDATA</comment>
+</LectureNote>

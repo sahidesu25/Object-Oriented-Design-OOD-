@@ -1,0 +1,1 @@
+"debug/Executive.exe" "." "*.h" "/s" "/d" /f"bool recurse" "*.cpp"
